@@ -113,6 +113,10 @@ export default defineUserConfig({
               text: '9 console',
               link: '/documentation/console.md',
             },
+            {
+              text: '10 Contact',
+              link: '/documentation/contact.md',
+            },
           ],
         },
       },
