@@ -93,6 +93,10 @@ export default defineUserConfig({
               text: '4 Calendar',
               link: '/documentation/calendar.md',
             },
+            {
+              text: '5 CalendarEvent',
+              link: '/documentation/calendarevent.md',
+            },
           ],
         },
       },
