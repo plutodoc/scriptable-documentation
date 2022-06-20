@@ -97,6 +97,10 @@ export default defineUserConfig({
               text: '5 CalendarEvent',
               link: '/documentation/calendarevent.md',
             },
+            {
+              text: '6 CallbackURL',
+              link: '/documentation/callbackurl.md',
+            },
           ],
         },
       },
