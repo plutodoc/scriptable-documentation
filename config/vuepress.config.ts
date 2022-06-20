@@ -81,6 +81,10 @@ export default defineUserConfig({
               text: '1 Scriptable Docs',
               link: '/documentation/doc.md',
             },
+            {
+              text: '2 Alert',
+              link: '/documentation/alert.md',
+            },
           ],
         },
       },
