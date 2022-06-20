@@ -105,6 +105,10 @@ export default defineUserConfig({
               text: '7 Color',
               link: '/documentation/color.md',
             },
+            {
+              text: '8 config',
+              link: '/documentation/config.md',
+            },
           ],
         },
       },
