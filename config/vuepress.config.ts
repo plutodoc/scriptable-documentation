@@ -85,6 +85,10 @@ export default defineUserConfig({
               text: '2 Alert',
               link: '/documentation/alert.md',
             },
+            {
+              text: '3 args',
+              link: '/documentation/args.md',
+            },
           ],
         },
       },
