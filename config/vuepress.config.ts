@@ -101,6 +101,10 @@ export default defineUserConfig({
               text: '6 CallbackURL',
               link: '/documentation/callbackurl.md',
             },
+            {
+              text: '7 Color',
+              link: '/documentation/color.md',
+            },
           ],
         },
       },
