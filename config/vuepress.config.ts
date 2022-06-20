@@ -109,6 +109,10 @@ export default defineUserConfig({
               text: '8 config',
               link: '/documentation/config.md',
             },
+            {
+              text: '9 console',
+              link: '/documentation/console.md',
+            },
           ],
         },
       },
