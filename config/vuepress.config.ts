@@ -125,6 +125,10 @@ export default defineUserConfig({
               text: '12 ContactsGroup',
               link: '/documentation/contactsgroup.md',
             },
+            {
+              text: '13 DATA',
+              link: '/documentation/data.md',
+            },
           ],
         },
       },
